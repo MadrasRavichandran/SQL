@@ -1,4 +1,4 @@
 # SQL PROJECTS
 
 Book-List :
-Created a table with a list of my favorite books, with the highest rated books on top, to help the user choose better. 
+Created a table with a list of my favorite books, th ratings in decending order to help the user choose better books based on the ratings. 

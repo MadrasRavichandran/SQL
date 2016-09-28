@@ -1,7 +1,7 @@
 # SQL PROJECTS
 
 Karaoke Song Selector: 
-Chose the title of all the songs. Listed the songs whose mood was epic and were also released after the year 1990 and the duration of the ones below 4 minutes.
+Created a table that contains a list of famoues songs. Chose the title of all the songs. Listed the songs whose mood was epic and were also released after the year 1990 and the duration of the ones below 4 minutes.
 
 ToDo-List:
 Created a table that contains a list of activities that has to be performed on a particular day. Calculated the sum of the total time it will take to perform all the tasks.
